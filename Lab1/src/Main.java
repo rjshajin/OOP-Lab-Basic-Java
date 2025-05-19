@@ -14,8 +14,8 @@ public class Main {
         obj1.cgpa=3.75f;
         obj2.name = "Nasima Islam Bithi";
         obj2.age = "Unknown";
-        obj2.gender = "female";
-        obj2.phone = "555-555-5555";
+        obj2.gender = "Female";
+        obj2.phone = "Unknown";
         obj2.email ="Unknown";
         obj2.education1 = "Mawlana Bhashani Science Technology University";
         obj2.education2 = "Bangladesh University of Engineering and Technology";
