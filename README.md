@@ -23,7 +23,8 @@ Department of CSE, Daffodil International University
 <body>
     <h1>📚 Course Overview</h1>
     
-    This course introduces Java through the lens of Object-Oriented Programming (OOP) principles. We'll start simple and gradually dive into more advanced concepts.
+    This course introduces Java through the lens of Object-Oriented Programming (OOP) principles. 
+    We'll start simple and gradually dive into more advanced concepts.
     
 
         ✅ Basic Syntax & Structure
