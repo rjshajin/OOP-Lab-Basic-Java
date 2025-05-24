@@ -10,8 +10,6 @@ public class Teacher {
     public String designation;
     public void teacherDetails() {
         System.out.println("Display teacher details:");
-    }
-    void display2(){
         System.out.println("-----------------------------------------------------------------------------------------");
         System.out.println("Name       :"+name);
         System.out.println("Age        :"+age);
@@ -22,7 +20,7 @@ public class Teacher {
         System.out.println("MSc        :"+education2);
         System.out.println("Department :"+department);
         System.out.println("Designation:"+designation);
-        System.out.println("------------------------------------END----------------------------------------------");
+        System.out.println("--------------------------------------END------------------------------------------------");
 
     }
 }
