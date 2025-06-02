@@ -10,7 +10,7 @@
 # 🧪 OOP Lab - Object-Oriented Programming (Java)  
 Department of CSE, Daffodil International University
 <br>
-*👨‍🏫 Instructor: Ms. Nasima Islam Bithi, Lecturer, Department of CSE
+*👨‍🏫 EX. Instructor: Ms. Nasima Islam Bithi, Lecturer, Department of CSE
 <br>
 🎓 Student: Raofin Jahan Shajin (ID: 241-15-731)*
 
