@@ -31,12 +31,12 @@ Department of CSE, Daffodil International University
 
         ✅ Basic Syntax & Structure
         ✅ Classes & Objects
-        🔄 Constructors, Access Modifiers
-        🔄 Encapsulation
-        🔄 Inheritance
-        🔄 Polymorphism
-        🔄 Abstraction
-        🔄 Interfaces & Packages
+        ✅ Constructors, Access Modifiers
+        ✅ Encapsulation
+        ✅ Inheritance
+        ✅ Polymorphism
+        ✅ Abstraction
+        ✅ Interfaces & Packages
         🔄 File Handling, Exception Handling
         🔄 GUI Programming (if included)
   
